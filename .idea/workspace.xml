@@ -66,7 +66,7 @@
       <file leaf-file-name="Team.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/fuckme/Team.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="31" selection-start="338" selection-end="338" vertical-scroll-proportion="0.0" vertical-offset="265" max-vertical-offset="663">
+            <state line="40" column="41" selection-start="852" selection-end="852" vertical-scroll-proportion="0.0" vertical-offset="327" max-vertical-offset="833">
               <folding>
                 <element signature="e#415#416#0" expanded="true" />
                 <element signature="e#441#442#0" expanded="true" />
@@ -82,7 +82,7 @@
       <file leaf-file-name="TeamTest.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/fuckme/TeamTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="0" selection-start="449" selection-end="449" vertical-scroll-proportion="0.878553" vertical-offset="0" max-vertical-offset="442">
+            <state line="23" column="48" selection-start="592" selection-end="592" vertical-scroll-proportion="0.8062016" vertical-offset="79" max-vertical-offset="544">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -666,13 +666,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/fuckme/Player.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="45" column="54" selection-start="1069" selection-end="1069" vertical-scroll-proportion="0.0" vertical-offset="385" max-vertical-offset="884">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/fuckme/PlayerTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="1" selection-start="17" selection-end="73" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="901">
@@ -682,9 +675,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/fuckme/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="45" column="54" selection-start="1069" selection-end="1069" vertical-scroll-proportion="0.0" vertical-offset="385" max-vertical-offset="884">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/fuckme/Team.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="31" selection-start="338" selection-end="338" vertical-scroll-proportion="0.0" vertical-offset="10" max-vertical-offset="663">
+        <state line="40" column="41" selection-start="852" selection-end="852" vertical-scroll-proportion="0.0" vertical-offset="327" max-vertical-offset="833">
           <folding>
             <element signature="e#415#416#0" expanded="true" />
             <element signature="e#441#442#0" expanded="true" />
@@ -698,7 +698,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test/fuckme/TeamTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="0" selection-start="449" selection-end="449" vertical-scroll-proportion="0.878553" vertical-offset="0" max-vertical-offset="442">
+        <state line="23" column="48" selection-start="592" selection-end="592" vertical-scroll-proportion="0.8062016" vertical-offset="79" max-vertical-offset="544">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

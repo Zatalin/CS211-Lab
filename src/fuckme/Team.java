@@ -31,4 +31,14 @@ public class Team {
     public Player[] getPlayers() {
         return players;
     }
+
+    public String toString() {
+        String playerStrings = "";
+        //For each player in te array playres
+        for(Player thisPlayer : players){
+            playerStrings = playerStrings + "\n"+ thisPlayer.toString();
+        }
+          return country + playerStrings;
+
+    }
 }

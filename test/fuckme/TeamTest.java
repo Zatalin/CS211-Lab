@@ -8,7 +8,7 @@ import org.junit.Test;
  */
 public class TeamTest {
 
-    Player[] players = {new Player("Keith Dun", "USA", 10)};
+    Player[] players = {new Player("Keith Dun", "GK", 10)};
 
     @Test
     public void testConstuct() {
@@ -16,5 +16,11 @@ public class TeamTest {
         assertEquals("Country", t.getCountry());
         assertEquals("CID", t.getCID());
         assertArrayEquals(players, t.getPlayers());
+    }
+
+    @Test
+    public void testToString() {
+        Team t = new Team("CID", "Country", players);
+        assertEquals("Country\nKeith Dun - GK 10", t.toString());
     }
 }
