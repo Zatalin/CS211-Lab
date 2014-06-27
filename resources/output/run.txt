@@ -1,0 +1,1978 @@
+    
+     ----jGRASP exec: java CSCD211Lab1
+    
+    Please enter the name of the file that contains the team names files\\teams.txt
+    
+    
+    1.	Print all Teams to the screen
+    2.	Print all Teams to the User Specified file
+    3.	Sort the Teams by “Natural Order” (Hint: compareTo)
+    4.	Sort the by Team Country Name (Hint: Comparator)
+    5.	Sort each Team's Players by Number (Hint: Player compareTo)
+    6.	Sort each Team's Players by Position (Hint: Comparator)
+    7.	Print a entire team and only that team to a user specified file
+    8.	Quit
+    Choice --> 5
+    Bye
+    
+    
+    1.	Print all Teams to the screen
+    2.	Print all Teams to the User Specified file
+    3.	Sort the Teams by “Natural Order” (Hint: compareTo)
+    4.	Sort the by Team Country Name (Hint: Comparator)
+    5.	Sort each Team's Players by Number (Hint: Player compareTo)
+    6.	Sort each Team's Players by Position (Hint: Comparator)
+    7.	Print a entire team and only that team to a user specified file
+    8.	Quit
+    Choice --> 1
+    Country: Algeria
+    Cedric Si Mohamed - GK (1)
+    Sofiane Feghouli - MF (10)
+    Yacine Brahimi - MF (11)
+    Medhi Lacen - MF (12)
+    Islam Slimani - FW (13)
+    Nabil Bentaleb - MF (14)
+    El Arbi Hillel Soudani - FW (15)
+    Mohamed Zemmamouche - GK (16)
+    Liassine Cadamuro-BentaÃ¯ba - DF (17)
+    Abdelmoumene Djabou - MF (18)
+    Saphir TaÃ¯der - MF (19)
+    Madjid Bougherra - DF (2)
+    Aissa Mandi - DF (20)
+    Riyad Mahrez - MF (21)
+    Mehdi Mostefa - MF (22)
+    Rais M'Bolhi - GK (23)
+    Faouzi Ghoulam - DF (3)
+    EssaÃ¯d Belkalem - DF (4)
+    Rafik Halliche - DF (5)
+    Djamel Mesbah - DF (6)
+    Carl Medjani - DF (7)
+    Hassan Yebda - MF (8)
+    Nabil Ghilas - FW (9)
+    
+    
+    
+    Country: Argentina
+    Mathew Ryan - GK (1)
+    Ben Halloran - MF (10)
+    Tommy Oar - MF (11)
+    Mitchell Langerak - GK (12)
+    Oliver BozaniÄ‡ - MF (13)
+    James Troisi - MF (14)
+    Mile Jedinak - MF (15)
+    James Holland - MF (16)
+    Matt McKay - MF (17)
+    Eugene GalekoviÄ‡ - GK (18)
+    Ryan McGowan - DF (19)
+    Ivan FranjiÄ‡ - DF (2)
+    Dario VidoÅ¡iÄ‡ - MF (20)
+    Massimo Luongo - MF (21)
+    Alex Wilkinson - DF (22)
+    Mark Bresciano - MF (23)
+    Jason Davidson - DF (3)
+    Tim Cahill - FW (4)
+    Mark Milligan - MF (5)
+    Matthew Å piranoviÄ‡ - DF (6)
+    Mathew Leckie - FW (7)
+    Bailey Wright - DF (8)
+    Adam Taggart - FW (9)
+    
+    
+    
+    Country: Australia   
+    Mathew Ryan - GK (1)
+    Ben Halloran - MF (10)
+    Tommy Oar - MF (11)
+    Mitchell Langerak - GK (12)
+    Oliver BozaniÄ‡ - MF (13)
+    James Troisi - MF (14)
+    Mile Jedinak - MF (15)
+    James Holland - MF (16)
+    Matt McKay - MF (17)
+    Eugene GalekoviÄ‡ - GK (18)
+    Ryan McGowan - DF (19)
+    Ivan FranjiÄ‡ - DF (2)
+    Dario VidoÅ¡iÄ‡ - MF (20)
+    Massimo Luongo - MF (21)
+    Alex Wilkinson - DF (22)
+    Mark Bresciano - MF (23)
+    Jason Davidson - DF (3)
+    Tim Cahill - FW (4)
+    Mark Milligan - MF (5)
+    Matthew Å piranoviÄ‡ - DF (6)
+    Mathew Leckie - FW (7)
+    Bailey Wright - DF (8)
+    Adam Taggart - FW (9)
+    
+    
+    
+    Country: Belgium  
+    Thibaut Courtois - GK (1)
+    Eden Hazard - MF (10)
+    Kevin Mirallas - MF (11)
+    Simon Mignolet - GK (12)
+    Sammy Bossut - GK (13)
+    Dries Mertens - FW (14)
+    Daniel Van Buyten - DF (15)
+    Steven Defour - MF (16)
+    Divock Origi - FW (17)
+    Nicolas Lombaerts - DF (18)
+    Mousa DembÃ©lÃ© - MF (19)
+    Toby Alderweireld - DF (2)
+    Adnan Januzaj - MF (20)
+    Anthony Vanden Borre - DF (21)
+    Nacer Chadli - MF (22)
+    Laurent Ciman - DF (23)
+    Thomas Vermaelen - DF (3)
+    Vincent Kompany - DF (4)
+    Jan Vertonghen - DF (5)
+    Axel Witsel - MF (6)
+    Kevin De Bruyne - MF (7)
+    Marouane Fellaini - MF (8)
+    Romelu Lukaku - FW (9)
+    
+    
+    
+    Country: Bosnia and Herzegovina
+    Asmir Begovi - GK (1)
+    Zvjezdan Misimovi - MF (10)
+    Edin Džeko - FW (11)
+    Jasmin Fejzi - GK (12)
+    Mensur Mujdža - DF (13)
+    Izet Hajrovi - MF (14)
+    Toni Šunji - DF (15)
+    Senad Luli - MF (16)
+    Senijad Ibrii - MF (17)
+    Haris Medunjanin - MF (18)
+    Edin Viša - FW (19)
+    Avdija Vršajevi - DF (2)
+    Anel Hadži - MF (20)
+    Tino-Sven Suši - MF (21)
+    Asmir Avduki - GK (22)
+    Sejad Salihovi - MF (23)
+    Ermin Biaki - DF (3)
+    Emir Spahi - DF (4)
+    Sead Kolašinac - DF (5)
+    Ognjen Vranješ - DF (6)
+    Muhamed Beši - DF (7)
+    Miralem Pjani - MF (8)
+    Vedad Ibiševi - FW (9)
+    
+    
+    
+    Country: Brazil 
+    Jefferson - GK (1)
+    Neymar - FW (10)
+    Oscar - MF (11)
+    JÃºlio CÃ©sar - GK (12)
+    Dante - DF (13)
+    Maxwell - DF (14)
+    Henrique - DF (15)
+    Ramires - MF (16)
+    Luiz Gustavo - MF (17)
+    Hernanes - MF (18)
+    Willian - MF (19)
+    Dani Alves - DF (2)
+    Bernard - FW (20)
+    JÃ´ - FW (21)
+    Victor - GK (22)
+    Maicon - DF (23)
+    Thiago Silva - DF (3)
+    David Luiz - DF (4)
+    Fernandinho - MF (5)
+    Marcelo - DF (6)
+    Hulk - FW (7)
+    Paulinho - MF (8)
+    Fred - FW (9)
+    
+    
+    
+    Country: Cameroon
+    LoÃ¯c Feudjou - GK (1)
+    Vincent Aboubakar - FW (10)
+    Jean Makoun - MF (11)
+    Henri Bedimo - DF (12)
+    Maxim Choupo-Moting - FW (13)
+    AurÃ©lien Chedjou - DF (14)
+    Pierre WebÃ³ - FW (15)
+    Charles Itandje - GK (16)
+    StÃ©phane Mbia - MF (17)
+    Eyong Enoh - MF (18)
+    Fabrice Olinga - FW (19)
+    BenoÃ®t Assou-Ekotto - DF (2)
+    Edgar Salli - MF (20)
+    JoÃ«l Matip - MF (21)
+    Allan Nyom - DF (22)
+    Sammy N'Djock - GK (23)
+    Nicolas N'Koulou - DF (3)
+    CÃ©dric DjeugouÃ© - DF (4)
+    Dany Nounkeu - DF (5)
+    Alex Song - MF (6)
+    Landry N'GuÃ©mo - MF (7)
+    Benjamin Moukandjo - FW (8)
+    Samuel Eto'o - FW (9)
+    
+    
+    
+    Country: Chile
+    Claudio Bravo - GK (1)
+    Jorge ValdÃ­via - MF (10)
+    Eduardo Vargas - FW (11)
+    Cristopher Toselli - GK (12)
+    JosÃ© Rojas - DF (13)
+    FabiÃ¡n Orellana - MF (14)
+    Jean Beausejour - MF (15)
+    Felipe GutiÃ©rrez - MF (16)
+    Gary Medel - DF (17)
+    Gonzalo Jara - DF (18)
+    JosÃ© Pedro Fuenzalida - MF (19)
+    Eugenio Mena - DF (2)
+    Charles ArÃ¡nguiz - MF (20)
+    Marcelo DÃ­az - MF (21)
+    Esteban Paredes - FW (22)
+    Johnny Herrera - GK (23)
+    Miiko Albornoz - DF (3)
+    Mauricio Isla - MF (4)
+    Francisco Silva - MF (5)
+    Carlos Carmona - MF (6)
+    Alexis SÃ¡nchez - FW (7)
+    Arturo Vidal - MF (8)
+    Mauricio Pinilla - FW (9)
+    
+    
+    
+    Country: Colombia
+    David Ospina - GK (1)
+    James Rodríguez - MF (10)
+    Juan Guillermo Cuadrado - MF (11)
+    Camilo Vargas - GK (12)
+    Fredy Guarín - MF (13)
+    Víctor Ibarbo - MF (14)
+    Alexander Mejía - MF (15)
+    Éder Álvarez Balanta - DF (16)
+    Carlos Bacca - FW (17)
+    Juan Camilo Zúñiga - DF (18)
+    Adrián Ramos - FW (19)
+    Cristián Zapata - DF (2)
+    Juan Fernando Quintero - MF (20)
+    Jackson Martínez - FW (21)
+    Faryd Mondragón - GK (22)
+    Carlos Valdés - DF (23)
+    Mario Yepes - DF (3)
+    Santiago Arias - DF (4)
+    Carlos Carbonero - MF (5)
+    Carlos Sánchez - MF (6)
+    Pablo Armero - DF (7)
+    Abel Aguilar - MF (8)
+    Teófilo Gutiérrez - FW (9)
+    
+    
+    
+    Country: Costa Rica   
+    Keylor Navas - GK (1)
+    Bryan Ruiz - FW (10)
+    Michael Barrantes - MF (11)
+    Waylon Francis - DF (12)
+    Esteban Granados - MF (13)
+    Randall Brenes - FW (14)
+    JÃºnior DÃ­az - DF (15)
+    Cristian Gamboa - DF (16)
+    Yeltsin Tejeda - MF (17)
+    Patrick Pemberton - GK (18)
+    Roy Miller - DF (19)
+    Johnny Acosta - DF (2)
+    Diego Calvo - MF (20)
+    Marco UreÃ±a - FW (21)
+    JosÃ© Miguel Cubero - MF (22)
+    Daniel Cambronero - GK (23)
+    Giancarlo GonzÃ¡lez - DF (3)
+    Michael UmaÃ±a - DF (4)
+    Celso Borges - MF (5)
+    Ã“scar Duarte - DF (6)
+    Christian BolaÃ±os - MF (7)
+    Heiner Mora - DF (8)
+    Joel Campbell - FW (9)
+    
+    
+    
+    Country: Cote d'Ivoire
+    Boubacar Barry - GK (1)
+    Gervinho - FW (10)
+    Didier Drogba - FW (11)
+    Wilfried Bony - FW (12)
+    Didier Ya Konan - MF (13)
+    IsmaÃ«l DiomandÃ© - MF (14)
+    Max Gradel - FW (15)
+    Sylvain Gbohouo - GK (16)
+    Serge Aurier - DF (17)
+    Constant Djakpa - DF (18)
+    Yaya TourÃ© - MF (19)
+    Ousmane Viera - DF (2)
+    Serey Die - MF (20)
+    Giovanni Sio - FW (21)
+    Sol Bamba - DF (22)
+    Sayouba MandÃ© - GK (23)
+    Arthur Boka - DF (3)
+    Kolo TourÃ© - DF (4)
+    Didier Zokora - DF (5)
+    Mathis Bolly - FW (6)
+    Jean-Daniel Akpa-Akpro - DF (7)
+    Salomon Kalou - FW (8)
+    Cheick TiotÃ© - MF (9)
+    
+    
+    
+    Country: Croatia
+    Stipe Pletikosa - GK (1)
+    Luka Modri - MF (10)
+    Darijo Srna - DF (11)
+    Oliver Zelenika - GK (12)
+    Gordon Schildenfeld - DF (13)
+    Marcelo Brozovi - MF (14)
+    Ivan Molini - MF (15)
+    Ante Rebi - FW (16)
+    Mario MandÅ¾uki - FW (17)
+    Ivica Oli - FW (18)
+    Sammir - MF (19)
+    Å ime Vrsaljko - DF (2)
+    Mateo Kovaki - MF (20)
+    Domagoj Vida - DF (21)
+    Eduardo - FW (22)
+    Danijel SubaÅ¡i - GK (23)
+    Danijel Pranji - DF (3)
+    Ivan PeriÅ¡i - MF (4)
+    Vedran ?orluka - DF (5)
+    Dejan Lovren - DF (6)
+    Ivan Rakiti - MF (7)
+    Ognjen Vukojevi - MF (8)
+    Nikica Jelavi - FW (9)
+    
+    
+    
+    Country: Ecuador
+    MÃ¡ximo Banguera - GK (1)
+    Walter AyovÃ­ - DF (10)
+    Felipe Caicedo - FW (11)
+    AdriÃ¡n Bone - GK (12)
+    Enner Valencia - FW (13)
+    Segundo Castillo - MF (14)
+    Michael Arroyo - MF (15)
+    Antonio Valencia - MF (16)
+    Jaime AyovÃ­ - FW (17)
+    Ã“scar BagÃ¼Ã­ - DF (18)
+    Luis Saritama - MF (19)
+    Jorge Guagua - DF (2)
+    Fidel MartÃ­nez - MF (20)
+    Gabriel Achilier - DF (21)
+    Alexander DomÃ­nguez - GK (22)
+    Carlos Gruezo - MF (23)
+    Frickson Erazo - DF (3)
+    Juan Carlos Paredes - DF (4)
+    Renato Ibarra - MF (5)
+    Christian Noboa - MF (6)
+    Jefferson Montero - MF (7)
+    Ã‰dison MÃ©ndez - MF (8)
+    Joao Rojas - MF (9)
+    
+    
+    
+    Country: England
+    Joe Hart - GK (1)
+    Wayne Rooney - FW (10)
+    Danny Welbeck - FW (11)
+    Chris Smalling - DF (12)
+    Ben Foster - GK (13)
+    Jordan Henderson - MF (14)
+    Alex Oxlade-Chamberlain - MF (15)
+    Phil Jones - DF (16)
+    James Milner - MF (17)
+    Rickie Lambert - FW (18)
+    Raheem Sterling - MF (19)
+    Glen Johnson - DF (2)
+    Adam Lallana - MF (20)
+    Ross Barkley - MF (21)
+    Fraser Forster - GK (22)
+    Luke Shaw - DF (23)
+    Leighton Baines - DF (3)
+    Steven Gerrard - MF (4)
+    Gary Cahill - DF (5)
+    Phil Jagielka - DF (6)
+    Jack Wilshere - MF (7)
+    Frank Lampard - MF (8)
+    Daniel Sturridge - FW (9)
+    
+    
+    
+    Country: France
+    Hugo Lloris - GK (1)
+    Karim Benzema - FW (10)
+    Antoine Griezmann - MF (11)
+    Rio Mavuba - MF (12)
+    Eliaquim Mangala - DF (13)
+    Blaise Matuidi - MF (14)
+    Bacary Sagna - DF (15)
+    StÃ©phane Ruffier - GK (16)
+    Lucas Digne - DF (17)
+    Moussa Sissoko - MF (18)
+    Paul Pogba - MF (19)
+    Mathieu Debuchy - DF (2)
+    LoÃ¯c RÃ©my - FW (20)
+    Laurent Koscielny - DF (21)
+    Morgan Schneiderlin - MF (22)
+    MickaÃ«l Landreau - GK (23)
+    Patrice Evra - DF (3)
+    RaphaÃ«l Varane - DF (4)
+    Mamadou Sakho - DF (5)
+    Yohan Cabaye - MF (6)
+    RÃ©my Cabella - FW (7)
+    Mathieu Valbuena - MF (8)
+    Olivier Giroud - FW (9)
+    
+    
+    
+    Country: Germany
+    Manuel Neuer - GK (1)
+    Lukas Podolski - FW (10)
+    Miroslav Klose - FW (11)
+    Ron-Robert Zieler - GK (12)
+    Thomas MÃ¼ller - MF (13)
+    Julian Draxler - MF (14)
+    Erik Durm - DF (15)
+    Philipp Lahm - DF (16)
+    Per Mertesacker - DF (17)
+    Toni Kroos - MF (18)
+    Mario GÃ¶tze - MF (19)
+    Kevin GroÃŸkreutz - DF (2)
+    JÃ©rÃ´me Boateng - DF (20)
+    Marco Reus - MF (21)
+    Roman Weidenfeller - GK (22)
+    Christoph Kramer - MF (23)
+    Matthias Ginter - MF (3)
+    Benedikt HÃ¶wedes - DF (4)
+    Mats Hummels - DF (5)
+    Sami Khedira - MF (6)
+    Bastian Schweinsteiger - MF (7)
+    Mesut Ã–zil - MF (8)
+    AndrÃ© SchÃ¼rrle - MF (9)
+    
+    
+    
+    Country: Ghana
+    Steven Adams - GK (1)
+    AndrÃ© Ayew - MF (10)
+    Sulley Muntari - MF (11)
+    Adam Kwarasey - GK (12)
+    Jordan Ayew - FW (13)
+    Albert Adomah - MF (14)
+    Rashid Sumaila - DF (15)
+    Fatau Dauda - GK (16)
+    Mohammed Rabiu - MF (17)
+    Majeed Waris - FW (18)
+    Jonathan Mensah - DF (19)
+    Samuel Inkoom - DF (2)
+    Kwadwo Asamoah - MF (20)
+    John Boye - DF (21)
+    Wakaso Mubarak - MF (22)
+    Harrison Afful - DF (23)
+    Asamoah Gyan - FW (3)
+    Daniel Opare - DF (4)
+    Michael Essien - MF (5)
+    Afriyie Acquah - MF (6)
+    Christian Atsu - MF (7)
+    Emmanuel Agyemang-Badu - MF (8)
+    Kevin-Prince Boateng - FW (9)
+    
+    
+    
+    Country: Greece
+    Orestis Karnezis - GK (1)
+    Giorgos Karagounis - MF (10)
+    Loukas Vyntra - DF (11)
+    Panagiotis Glykos - GK (12)
+    Stefanos Kapino - GK (13)
+    Dimitris Salpingidis - FW (14)
+    Vasilis Torosidis - DF (15)
+    Lazaros Christodoulopoulos - MF (16)
+    Theofanis Gekas - FW (17)
+    Giannis Fetfatzidis - MF (18)
+    Sokratis Papastathopoulos - DF (19)
+    Giannis Maniatis - DF (2)
+    JosÃ© Holebas - DF (20)
+    Kostas Katsouranis - MF (21)
+    Andreas Samaris - MF (22)
+    Panagiotis Tachtsidis - MF (23)
+    Giorgos Tzavellas - DF (3)
+    Kostas Manolas - DF (4)
+    Vangelis Moras - DF (5)
+    Alexandros Tziolis - MF (6)
+    Giorgos Samaras - FW (7)
+    Panagiotis Kone - MF (8)
+    Kostas Mitroglou - FW (9)
+    
+    
+    
+    Country: Honduras
+    Luis LÃ³pez - GK (1)
+    Mario MartÃ­nez - MF (10)
+    Jerry Bengtson - FW (11)
+    Edder Delgado - MF (12)
+    Carlo Costly - FW (13)
+    Ã“scar GarcÃ­a - MF (14)
+    Roger Espinoza - MF (15)
+    Rony MartÃ­nez - FW (16)
+    Marvin ChÃ¡vez - MF (17)
+    Noel Valladares - GK (18)
+    Luis Garrido - MF (19)
+    Osman ChÃ¡vez - DF (2)
+    Jorge Claros - MF (20)
+    Andy Najar - MF (21)
+    Donis Escober - GK (22)
+    Brayan Beckeles - DF (23)
+    Maynor Figueroa - DF (3)
+    Juan Pablo Montes - DF (4)
+    VÃ­ctor BernÃ¡rdez - DF (5)
+    Juan Carlos GarcÃ­a - DF (6)
+    Emilio Izaguirre - DF (7)
+    Wilson Palacios - MF (8)
+    Jerry Palacios - FW (9)
+    
+    
+    
+    Country: Iran
+    Rahman Ahmadi - GK (1)
+    Karim Ansarifard - FW (10)
+    Ghasem Haddadifar - MF (11)
+    Alireza Haghighi - GK (12)
+    Hossein Mahini - DF (13)
+    Andranik Teymourian - MF (14)
+    Pejman Montazeri - DF (15)
+    Reza Ghoochannejhad - FW (16)
+    Ahmad Alenemeh - DF (17)
+    Bakhtiar Rahmani - MF (18)
+    Hashem Beikzadeh - DF (19)
+    Khosro Heydari - MF (2)
+    Steven Beitashour - DF (20)
+    Ashkan Dejagah - MF (21)
+    Daniel Davari - GK (22)
+    Mehrdad Pouladi - DF (23)
+    Ehsan Hajsafi - MF (3)
+    Jalal Hosseini - DF (4)
+    Amir Hossein Sadeghi - DF (5)
+    Javad Nekounam - MF (6)
+    Masoud Shojaei - MF (7)
+    Reza Haghighi - MF (8)
+    Alireza Jahanbakhsh - FW (9)
+    
+    
+    
+    Country: Italy
+    Gianluigi Buffon - GK (1)
+    Antonio Cassano - FW (10)
+    Alessio Cerci - FW (11)
+    Salvatore Sirigu - GK (12)
+    Mattia Perin - GK (13)
+    Alberto Aquilani - MF (14)
+    Andrea Barzagli - DF (15)
+    Daniele De Rossi - MF (16)
+    Ciro Immobile - FW (17)
+    Marco Parolo - MF (18)
+    Leonardo Bonucci - DF (19)
+    Mattia De Sciglio - DF (2)
+    Gabriel Paletta - DF (20)
+    Andrea Pirlo - MF (21)
+    Lorenzo Insigne - FW (22)
+    Marco Verratti - MF (23)
+    Giorgio Chiellini - DF (3)
+    Matteo Darmian - DF (4)
+    Thiago Motta - MF (5)
+    Antonio Candreva - MF (6)
+    Ignazio Abate - DF (7)
+    Claudio Marchisio - MF (8)
+    Mario Balotelli - FW (9)
+    
+    
+    
+    Country: Japan
+    Eiji Kawashima - GK (1)
+    Shinji Kagawa - MF (10)
+    Yoichiro Kakitani - FW (11)
+    Shusaku Nishikawa - GK (12)
+    Yoshito kubo - FW (13)
+    Toshihiro Aoyama - MF (14)
+    Yasuyuki Konno - DF (15)
+    Hotaru Yamaguchi - MF (16)
+    Makoto Hasebe - MF (17)
+    Yuya Osako - FW (18)
+    Masahiko Inoha - DF (19)
+    Atsuto Uchida - DF (2)
+    Manabu Sait - FW (20)
+    Hiroki Sakai - DF (21)
+    Maya Yoshida - DF (22)
+    Shichi Gonda - GK (23)
+    Gatoku Sakai - DF (3)
+    Keisuke Honda - MF (4)
+    Yuto Nagatomo - DF (5)
+    Masato Morishige - DF (6)
+    Yasuhito End - MF (7)
+    Hiroshi Kiyotake - MF (8)
+    Shinji Okazaki - FW (9)
+    
+    
+    
+    Country: Mexico
+    José de Jesús Corona - GK (1)
+    Giovani dos Santos - FW (10)
+    Alan Pulido - FW (11)
+    Alfredo Talavera - GK (12)
+    Guillermo Ochoa - GK (13)
+    Javier Hernández - FW (14)
+    Héctor Moreno - DF (15)
+    Miguel Ángel Ponce - DF (16)
+    Isaác Brizuela - MF (17)
+    Andrés Guardado - DF (18)
+    Oribe Peralta - FW (19)
+    Francisco Javier Rodríguez - DF (2)
+    Javier Aquino - MF (20)
+    Carlos Peña - MF (21)
+    Paul Aguilar - DF (22)
+    José Juan Vázquez - MF (23)
+    Carlos Salcido - DF (3)
+    Rafael Márquez - DF (4)
+    Diego Reyes - DF (5)
+    Héctor Herrera - MF (6)
+    Miguel Layún - DF (7)
+    Marco Fabián - MF (8)
+    Raúl Jiménez - FW (9)
+    
+    
+    
+    Country: Netherlands
+    Jasper Cillessen - GK (1)
+    Wesley Sneijder - MF (10)
+    Arjen Robben - MF (11)
+    Paul Verhaegh - DF (12)
+    JoÃ«l Veltman - DF (13)
+    Terence Kongolo - DF (14)
+    Dirk Kuyt - FW (15)
+    Jordy Clasie - MF (16)
+    Jeremain Lens - FW (17)
+    Leroy Fer - MF (18)
+    Klaas-Jan Huntelaar - FW (19)
+    Ron Vlaar - DF (2)
+    Georginio Wijnaldum - MF (20)
+    Memphis Depay - MF (21)
+    Michel Vorm - GK (22)
+    Tim Krul - GK (23)
+    Stefan de Vrij - DF (3)
+    Bruno Martins Indi - DF (4)
+    Daley Blind - DF (5)
+    Jonathan de GuzmÃ¡n - MF (6)
+    Daryl Janmaat - DF (7)
+    Nigel de Jong - MF (8)
+    Robin van Persie - FW (9)
+    
+    
+    
+    Country: Nigeria    
+    Vincent Enyeama - GK (1)
+    John Obi Mikel - MF (10)
+    Victor Moses - MF (11)
+    Kunle Odunlami - DF (12)
+    Juwon Oshaniwa - DF (13)
+    Godfrey Oboabona - DF (14)
+    Ramon Azeez - MF (15)
+    Austin Ejide - GK (16)
+    Ogenyi Onazi - MF (17)
+    Michael Babatunde - MF (18)
+    Uche Nwofor - FW (19)
+    Joseph Yobo - DF (2)
+    Michael Uchebo - FW (20)
+    Chigozie Agbim - GK (21)
+    Kenneth Omeruo - DF (22)
+    Shola Ameobi - FW (23)
+    Uwa Elderson EchiÃ©jilÃ© - DF (3)
+    Reuben Gabriel - MF (4)
+    Efe Ambrose - DF (5)
+    Azubuike Egwuekwe - DF (6)
+    Ahmed Musa - FW (7)
+    Peter Odemwingie - FW (8)
+    Emmanuel Emenike - FW (9)
+    
+    
+    
+    Country: Portugal
+    Eduardo - GK (1)
+    Vieirinha - MF (10)
+    Ã‰der - FW (11)
+    Rui PatrÃ­cio - GK (12)
+    Ricardo Costa - DF (13)
+    LuÃ­s Neto - DF (14)
+    Rafa Silva - MF (15)
+    Raul Meireles - MF (16)
+    Nani - MF (17)
+    Silvestre Varela - MF (18)
+    AndrÃ© Almeida - DF (19)
+    Bruno Alves - DF (2)
+    RÃºben Amorim - MF (20)
+    JoÃ£o Pereira - DF (21)
+    Beto - GK (22)
+    HÃ©lder Postiga - FW (23)
+    Pepe - DF (3)
+    Miguel Veloso - MF (4)
+    FÃ¡bio CoentrÃ£o - DF (5)
+    William Carvalho - MF (6)
+    Cristiano Ronaldo - FW (7)
+    JoÃ£o Moutinho - MF (8)
+    Hugo Almeida - FW (9)
+    
+    
+    
+    Country: Russia
+    Igor Akinfeev - GK (1)
+    Alan Dzagoev - MF (10)
+    Aleksandr Kerzhakov - FW (11)
+    Yuri Lodygin - GK (12)
+    Vladimir Granat - DF (13)
+    Vasili Berezutski - DF (14)
+    Roman Shirokov - MF (15)
+    Sergey Ryzhikov - GK (16)
+    Oleg Shatov - MF (17)
+    Yuri Zhirkov - FW (18)
+    Aleksandr Samedov - FW (19)
+    Aleksei Kozlov - DF (2)
+    Viktor Fayzulin - MF (20)
+    Aleksei Ionov - FW (21)
+    Andrey Yeshchenko - DF (22)
+    Dmitri Kombarov - DF (23)
+    Georgi Shchennikov - DF (3)
+    Sergei Ignashevich - DF (4)
+    Andrei Semyonov - DF (5)
+    Maksim Kanunnikov - FW (6)
+    Igor Denisov - MF (7)
+    Denis Glushakov - MF (8)
+    Aleksandr Kokorin - FW (9)
+    
+    
+    
+    Country: South Korea
+    Jung Sung-Ryong - GK (1)
+    Park Chu-Young - FW (10)
+    Lee Keun-Ho - FW (11)
+    Lee Yong - DF (12)
+    Koo Ja-Cheol - MF (13)
+    Han Kook-Young - MF (14)
+    Park Jong-Woo - MF (15)
+    Ki Sung-Yueng - MF (16)
+    Lee Chung-Yong - MF (17)
+    Kim Shin-Wook - FW (18)
+    Ji Dong-Won - FW (19)
+    Kim Chang-Soo - DF (2)
+    Hong Jeong-Ho - DF (20)
+    Kim Seung-Gyu - GK (21)
+    Park Joo-Ho - DF (22)
+    Lee Bum-Young - GK (23)
+    Yun Suk-Young - DF (3)
+    Kwak Tae-Hwi - DF (4)
+    Kim Young-Gwon - DF (5)
+    Hwang Seok-Ho - DF (6)
+    Kim Bo-Kyung - MF (7)
+    Ha Dae-Sung - MF (8)
+    Son Heung-Min - FW (9)
+    
+    
+    
+    Country: Spain
+    Iker Casillas - GK (1)
+    Cesc FÃ bregas - MF (10)
+    Pedro - FW (11)
+    David de Gea - GK (12)
+    Juan Mata - MF (13)
+    Xabi Alonso - MF (14)
+    Sergio Ramos - DF (15)
+    Sergio Busquets - MF (16)
+    Koke - MF (17)
+    Jordi Alba - DF (18)
+    Diego Costa - FW (19)
+    RaÃºl Albiol - DF (2)
+    Santi Cazorla - MF (20)
+    David Silva - MF (21)
+    CÃ©sar Azpilicueta - DF (22)
+    Pepe Reina - GK (23)
+    Gerard PiquÃ© - DF (3)
+    Javi MartÃ­nez - MF (4)
+    Juanfran - DF (5)
+    AndrÃ©s Iniesta - MF (6)
+    David Villa - FW (7)
+    Xavi - MF (8)
+    Fernando Torres - FW (9)
+    
+    
+    
+    Country: Switzerland
+    Diego Benaglio - GK (1)
+    Granit Xhaka - MF (10)
+    Valon Behrami - MF (11)
+    Yann Sommer - GK (12)
+    Ricardo RodrÃ­guez - DF (13)
+    Valentin Stocker - MF (14)
+    Blerim DÅ¾emaili - MF (15)
+    Gelson Fernandes - MF (16)
+    Mario GavranoviÄ‡ - FW (17)
+    Admir Mehmedi - FW (18)
+    Josip DrmiÄ‡ - FW (19)
+    Stephan Lichtsteiner - DF (2)
+    Johan Djourou - DF (20)
+    Roman BÃ¼rki - GK (21)
+    Fabian SchÃ¤r - DF (22)
+    Xherdan Shaqiri - MF (23)
+    Reto Ziegler - DF (3)
+    Philippe Senderos - DF (4)
+    Steve von Bergen - DF (5)
+    Michael Lang - DF (6)
+    Tranquillo Barnetta - MF (7)
+    GÃ¶khan Inler - MF (8)
+    Haris SeferoviÄ‡ - FW (9)
+    
+    
+    
+    Country: United States
+    Tim Howard - GK (1)
+    Mikkel Diskerud - MF (10)
+    Alejandro Bedoya - MF (11)
+    Brad Guzan - GK (12)
+    Jermaine Jones - MF (13)
+    Brad Davis - MF (14)
+    Kyle Beckerman - MF (15)
+    Julian Green - MF (16)
+    Jozy Altidore - FW (17)
+    Chris Wondolowski - FW (18)
+    Graham Zusi - MF (19)
+    DeAndre Yedlin - DF (2)
+    Geoff Cameron - DF (20)
+    Timothy Chandler - DF (21)
+    Nick Rimando - GK (22)
+    Fabian Johnson - DF (23)
+    Omar Gonzalez - DF (3)
+    Michael Bradley - MF (4)
+    Matt Besler - DF (5)
+    John Brooks - DF (6)
+    DaMarcus Beasley - DF (7)
+    Clint Dempsey - FW (8)
+    Aron JÃ³hannsson - FW (9)
+    
+    
+    
+    Country: Uruguay
+    Fernando Muslera - GK (1)
+    Diego Forlán - FW (10)
+    Christian Stuani - FW (11)
+    Rodrigo Muñoz - GK (12)
+    Jorge Fucile - DF (13)
+    Nicolás Lodeiro - MF (14)
+    Diego Pérez - MF (15)
+    Maxi Pereira - DF (16)
+    Egidio Arévalo Ríos - MF (17)
+    Gastón Ramírez - MF (18)
+    José María Giménez - DF (19)
+    Diego Lugano - DF (2)
+    Álvaro González - MF (20)
+    Edinson Cavani - FW (21)
+    Martín Cáceres - DF (22)
+    Martín Silva - GK (23)
+    Diego Godín - DF (3)
+    Sebastián Coates - DF (4)
+    Walter Gargano - MF (5)
+    Álvaro Pereira - MF (6)
+    Cristian Rodríguez - MF (7)
+    Abel Hernández - FW (8)
+    Luis Suárez - FW (9)
+    
+    
+    
+    
+    
+    1.	Print all Teams to the screen
+    2.	Print all Teams to the User Specified file
+    3.	Sort the Teams by “Natural Order” (Hint: compareTo)
+    4.	Sort the by Team Country Name (Hint: Comparator)
+    5.	Sort each Team's Players by Number (Hint: Player compareTo)
+    6.	Sort each Team's Players by Position (Hint: Comparator)
+    7.	Print a entire team and only that team to a user specified file
+    8.	Quit
+    Choice --> 
+     ----jGRASP: process ended by user.
+    
+     ----jGRASP exec: java -Xnoagent -Djava.compiler=NONE -Xdebug -Xrunjdwp:transport=dt_socket,suspend=y,server=y CSCD211Lab1
+    
+     ----jGRASP: connected to debugger.
+    Please enter the name of the file that contains the team names files\\teams.txt
+    
+    
+    1.	Print all Teams to the screen
+    2.	Print all Teams to the User Specified file
+    3.	Sort the Teams by “Natural Order” (Hint: compareTo)
+    4.	Sort the by Team Country Name (Hint: Comparator)
+    5.	Sort each Team's Players by Number (Hint: Player compareTo)
+    6.	Sort each Team's Players by Position (Hint: Comparator)
+    7.	Print a entire team and only that team to a user specified file
+    8.	Quit
+    Choice --> 5
+    
+     ----jGRASP: process ended by user.
+    
+     ----jGRASP exec: java -Xnoagent -Djava.compiler=NONE -Xdebug -Xrunjdwp:transport=dt_socket,suspend=y,server=y CSCD211Lab1
+    
+     ----jGRASP: connected to debugger.
+    Please enter the name of the file that contains the team names files\\teams.txt
+    Exception in thread "main" java.lang.NumberFormatException: For input string: "1)"
+    	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+    	at java.lang.Integer.parseInt(Integer.java:492)
+    	at java.lang.Integer.parseInt(Integer.java:527)
+    	at CSCD211Lab1.readPlayers(CSCD211Lab1.java:79)
+    	at CSCD211Lab1.fillTeamsArray(CSCD211Lab1.java:42)
+    	at CSCD211Lab1.main(CSCD211Lab1.java:15)
+    ERROR: JDWP Unable to get JNI 1.2 environment, jvm->GetEnv() return code = -2
+    JDWP exit error AGENT_ERROR_NO_JNI_ENV(183):  [../../../src/share/back/util.c:838]
+    
+     ----jGRASP wedge2: exit code for process is 1.
+     ----jGRASP: operation complete.
+    
+     ----jGRASP exec: java CSCD211Lab1
+    
+    Please enter the name of the file that contains the team names files\\teams.txt
+    
+    
+    1.	Print all Teams to the screen
+    2.	Print all Teams to the User Specified file
+    3.	Sort the Teams by “Natural Order” (Hint: compareTo)
+    4.	Sort the by Team Country Name (Hint: Comparator)
+    5.	Sort each Team's Players by Number (Hint: Player compareTo)
+    6.	Sort each Team's Players by Position (Hint: Comparator)
+    7.	Print a entire team and only that team to a user specified file
+    8.	Quit
+    Choice --> 5
+    
+    
+    1.	Print all Teams to the screen
+    2.	Print all Teams to the User Specified file
+    3.	Sort the Teams by “Natural Order” (Hint: compareTo)
+    4.	Sort the by Team Country Name (Hint: Comparator)
+    5.	Sort each Team's Players by Number (Hint: Player compareTo)
+    6.	Sort each Team's Players by Position (Hint: Comparator)
+    7.	Print a entire team and only that team to a user specified file
+    8.	Quit
+    Choice --> 1
+    Country: Algeria
+    Cedric Si Mohamed - GK 1
+    Madjid Bougherra - DF 2
+    Faouzi Ghoulam - DF 3
+    EssaÃ¯d Belkalem - DF 4
+    Rafik Halliche - DF 5
+    Djamel Mesbah - DF 6
+    Carl Medjani - DF 7
+    Hassan Yebda - MF 8
+    Nabil Ghilas - FW 9
+    Sofiane Feghouli - MF 10
+    Yacine Brahimi - MF 11
+    Medhi Lacen - MF 12
+    Islam Slimani - FW 13
+    Nabil Bentaleb - MF 14
+    El Arbi Hillel Soudani - FW 15
+    Mohamed Zemmamouche - GK 16
+    Liassine Cadamuro-BentaÃ¯ba - DF 17
+    Abdelmoumene Djabou - MF 18
+    Saphir TaÃ¯der - MF 19
+    Aissa Mandi - DF 20
+    Riyad Mahrez - MF 21
+    Mehdi Mostefa - MF 22
+    Rais M'Bolhi - GK 23
+    
+    
+    
+    Country: Argentina
+    Mathew Ryan - GK 1
+    Ivan FranjiÄ‡ - DF 2
+    Jason Davidson - DF 3
+    Tim Cahill - FW 4
+    Mark Milligan - MF 5
+    Matthew Å piranoviÄ‡ - DF 6
+    Mathew Leckie - FW 7
+    Bailey Wright - DF 8
+    Adam Taggart - FW 9
+    Ben Halloran - MF 10
+    Tommy Oar - MF 11
+    Mitchell Langerak - GK 12
+    Oliver BozaniÄ‡ - MF 13
+    James Troisi - MF 14
+    Mile Jedinak - MF 15
+    James Holland - MF 16
+    Matt McKay - MF 17
+    Eugene GalekoviÄ‡ - GK 18
+    Ryan McGowan - DF 19
+    Dario VidoÅ¡iÄ‡ - MF 20
+    Massimo Luongo - MF 21
+    Alex Wilkinson - DF 22
+    Mark Bresciano - MF 23
+    
+    
+    
+    Country: Australia   
+    Mathew Ryan - GK 1
+    Ivan FranjiÄ‡ - DF 2
+    Jason Davidson - DF 3
+    Tim Cahill - FW 4
+    Mark Milligan - MF 5
+    Matthew Å piranoviÄ‡ - DF 6
+    Mathew Leckie - FW 7
+    Bailey Wright - DF 8
+    Adam Taggart - FW 9
+    Ben Halloran - MF 10
+    Tommy Oar - MF 11
+    Mitchell Langerak - GK 12
+    Oliver BozaniÄ‡ - MF 13
+    James Troisi - MF 14
+    Mile Jedinak - MF 15
+    James Holland - MF 16
+    Matt McKay - MF 17
+    Eugene GalekoviÄ‡ - GK 18
+    Ryan McGowan - DF 19
+    Dario VidoÅ¡iÄ‡ - MF 20
+    Massimo Luongo - MF 21
+    Alex Wilkinson - DF 22
+    Mark Bresciano - MF 23
+    
+    
+    
+    Country: Belgium  
+    Thibaut Courtois - GK 1
+    Toby Alderweireld - DF 2
+    Thomas Vermaelen - DF 3
+    Vincent Kompany - DF 4
+    Jan Vertonghen - DF 5
+    Axel Witsel - MF 6
+    Kevin De Bruyne - MF 7
+    Marouane Fellaini - MF 8
+    Romelu Lukaku - FW 9
+    Eden Hazard - MF 10
+    Kevin Mirallas - MF 11
+    Simon Mignolet - GK 12
+    Sammy Bossut - GK 13
+    Dries Mertens - FW 14
+    Daniel Van Buyten - DF 15
+    Steven Defour - MF 16
+    Divock Origi - FW 17
+    Nicolas Lombaerts - DF 18
+    Mousa DembÃ©lÃ© - MF 19
+    Adnan Januzaj - MF 20
+    Anthony Vanden Borre - DF 21
+    Nacer Chadli - MF 22
+    Laurent Ciman - DF 23
+    
+    
+    
+    Country: Bosnia and Herzegovina
+    Asmir Begovi - GK 1
+    Avdija Vršajevi - DF 2
+    Ermin Biaki - DF 3
+    Emir Spahi - DF 4
+    Sead Kolašinac - DF 5
+    Ognjen Vranješ - DF 6
+    Muhamed Beši - DF 7
+    Miralem Pjani - MF 8
+    Vedad Ibiševi - FW 9
+    Zvjezdan Misimovi - MF 10
+    Edin Džeko - FW 11
+    Jasmin Fejzi - GK 12
+    Mensur Mujdža - DF 13
+    Izet Hajrovi - MF 14
+    Toni Šunji - DF 15
+    Senad Luli - MF 16
+    Senijad Ibrii - MF 17
+    Haris Medunjanin - MF 18
+    Edin Viša - FW 19
+    Anel Hadži - MF 20
+    Tino-Sven Suši - MF 21
+    Asmir Avduki - GK 22
+    Sejad Salihovi - MF 23
+    
+    
+    
+    Country: Brazil 
+    Jefferson - GK 1
+    Dani Alves - DF 2
+    Thiago Silva - DF 3
+    David Luiz - DF 4
+    Fernandinho - MF 5
+    Marcelo - DF 6
+    Hulk - FW 7
+    Paulinho - MF 8
+    Fred - FW 9
+    Neymar - FW 10
+    Oscar - MF 11
+    JÃºlio CÃ©sar - GK 12
+    Dante - DF 13
+    Maxwell - DF 14
+    Henrique - DF 15
+    Ramires - MF 16
+    Luiz Gustavo - MF 17
+    Hernanes - MF 18
+    Willian - MF 19
+    Bernard - FW 20
+    JÃ´ - FW 21
+    Victor - GK 22
+    Maicon - DF 23
+    
+    
+    
+    Country: Cameroon
+    LoÃ¯c Feudjou - GK 1
+    BenoÃ®t Assou-Ekotto - DF 2
+    Nicolas N'Koulou - DF 3
+    CÃ©dric DjeugouÃ© - DF 4
+    Dany Nounkeu - DF 5
+    Alex Song - MF 6
+    Landry N'GuÃ©mo - MF 7
+    Benjamin Moukandjo - FW 8
+    Samuel Eto'o - FW 9
+    Vincent Aboubakar - FW 10
+    Jean Makoun - MF 11
+    Henri Bedimo - DF 12
+    Maxim Choupo-Moting - FW 13
+    AurÃ©lien Chedjou - DF 14
+    Pierre WebÃ³ - FW 15
+    Charles Itandje - GK 16
+    StÃ©phane Mbia - MF 17
+    Eyong Enoh - MF 18
+    Fabrice Olinga - FW 19
+    Edgar Salli - MF 20
+    JoÃ«l Matip - MF 21
+    Allan Nyom - DF 22
+    Sammy N'Djock - GK 23
+    
+    
+    
+    Country: Chile
+    Claudio Bravo - GK 1
+    Eugenio Mena - DF 2
+    Miiko Albornoz - DF 3
+    Mauricio Isla - MF 4
+    Francisco Silva - MF 5
+    Carlos Carmona - MF 6
+    Alexis SÃ¡nchez - FW 7
+    Arturo Vidal - MF 8
+    Mauricio Pinilla - FW 9
+    Jorge ValdÃ­via - MF 10
+    Eduardo Vargas - FW 11
+    Cristopher Toselli - GK 12
+    JosÃ© Rojas - DF 13
+    FabiÃ¡n Orellana - MF 14
+    Jean Beausejour - MF 15
+    Felipe GutiÃ©rrez - MF 16
+    Gary Medel - DF 17
+    Gonzalo Jara - DF 18
+    JosÃ© Pedro Fuenzalida - MF 19
+    Charles ArÃ¡nguiz - MF 20
+    Marcelo DÃ­az - MF 21
+    Esteban Paredes - FW 22
+    Johnny Herrera - GK 23
+    
+    
+    
+    Country: Colombia
+    David Ospina - GK 1
+    Cristián Zapata - DF 2
+    Mario Yepes - DF 3
+    Santiago Arias - DF 4
+    Carlos Carbonero - MF 5
+    Carlos Sánchez - MF 6
+    Pablo Armero - DF 7
+    Abel Aguilar - MF 8
+    Teófilo Gutiérrez - FW 9
+    James Rodríguez - MF 10
+    Juan Guillermo Cuadrado - MF 11
+    Camilo Vargas - GK 12
+    Fredy Guarín - MF 13
+    Víctor Ibarbo - MF 14
+    Alexander Mejía - MF 15
+    Éder Álvarez Balanta - DF 16
+    Carlos Bacca - FW 17
+    Juan Camilo Zúñiga - DF 18
+    Adrián Ramos - FW 19
+    Juan Fernando Quintero - MF 20
+    Jackson Martínez - FW 21
+    Faryd Mondragón - GK 22
+    Carlos Valdés - DF 23
+    
+    
+    
+    Country: Costa Rica   
+    Keylor Navas - GK 1
+    Johnny Acosta - DF 2
+    Giancarlo GonzÃ¡lez - DF 3
+    Michael UmaÃ±a - DF 4
+    Celso Borges - MF 5
+    Ã“scar Duarte - DF 6
+    Christian BolaÃ±os - MF 7
+    Heiner Mora - DF 8
+    Joel Campbell - FW 9
+    Bryan Ruiz - FW 10
+    Michael Barrantes - MF 11
+    Waylon Francis - DF 12
+    Esteban Granados - MF 13
+    Randall Brenes - FW 14
+    JÃºnior DÃ­az - DF 15
+    Cristian Gamboa - DF 16
+    Yeltsin Tejeda - MF 17
+    Patrick Pemberton - GK 18
+    Roy Miller - DF 19
+    Diego Calvo - MF 20
+    Marco UreÃ±a - FW 21
+    JosÃ© Miguel Cubero - MF 22
+    Daniel Cambronero - GK 23
+    
+    
+    
+    Country: Cote d'Ivoire
+    Boubacar Barry - GK 1
+    Ousmane Viera - DF 2
+    Arthur Boka - DF 3
+    Kolo TourÃ© - DF 4
+    Didier Zokora - DF 5
+    Mathis Bolly - FW 6
+    Jean-Daniel Akpa-Akpro - DF 7
+    Salomon Kalou - FW 8
+    Cheick TiotÃ© - MF 9
+    Gervinho - FW 10
+    Didier Drogba - FW 11
+    Wilfried Bony - FW 12
+    Didier Ya Konan - MF 13
+    IsmaÃ«l DiomandÃ© - MF 14
+    Max Gradel - FW 15
+    Sylvain Gbohouo - GK 16
+    Serge Aurier - DF 17
+    Constant Djakpa - DF 18
+    Yaya TourÃ© - MF 19
+    Serey Die - MF 20
+    Giovanni Sio - FW 21
+    Sol Bamba - DF 22
+    Sayouba MandÃ© - GK 23
+    
+    
+    
+    Country: Croatia
+    Stipe Pletikosa - GK 1
+    Å ime Vrsaljko - DF 2
+    Danijel Pranji - DF 3
+    Ivan PeriÅ¡i - MF 4
+    Vedran ?orluka - DF 5
+    Dejan Lovren - DF 6
+    Ivan Rakiti - MF 7
+    Ognjen Vukojevi - MF 8
+    Nikica Jelavi - FW 9
+    Luka Modri - MF 10
+    Darijo Srna - DF 11
+    Oliver Zelenika - GK 12
+    Gordon Schildenfeld - DF 13
+    Marcelo Brozovi - MF 14
+    Ivan Molini - MF 15
+    Ante Rebi - FW 16
+    Mario MandÅ¾uki - FW 17
+    Ivica Oli - FW 18
+    Sammir - MF 19
+    Mateo Kovaki - MF 20
+    Domagoj Vida - DF 21
+    Eduardo - FW 22
+    Danijel SubaÅ¡i - GK 23
+    
+    
+    
+    Country: Ecuador
+    MÃ¡ximo Banguera - GK 1
+    Jorge Guagua - DF 2
+    Frickson Erazo - DF 3
+    Juan Carlos Paredes - DF 4
+    Renato Ibarra - MF 5
+    Christian Noboa - MF 6
+    Jefferson Montero - MF 7
+    Ã‰dison MÃ©ndez - MF 8
+    Joao Rojas - MF 9
+    Walter AyovÃ­ - DF 10
+    Felipe Caicedo - FW 11
+    AdriÃ¡n Bone - GK 12
+    Enner Valencia - FW 13
+    Segundo Castillo - MF 14
+    Michael Arroyo - MF 15
+    Antonio Valencia - MF 16
+    Jaime AyovÃ­ - FW 17
+    Ã“scar BagÃ¼Ã­ - DF 18
+    Luis Saritama - MF 19
+    Fidel MartÃ­nez - MF 20
+    Gabriel Achilier - DF 21
+    Alexander DomÃ­nguez - GK 22
+    Carlos Gruezo - MF 23
+    
+    
+    
+    Country: England
+    Joe Hart - GK 1
+    Glen Johnson - DF 2
+    Leighton Baines - DF 3
+    Steven Gerrard - MF 4
+    Gary Cahill - DF 5
+    Phil Jagielka - DF 6
+    Jack Wilshere - MF 7
+    Frank Lampard - MF 8
+    Daniel Sturridge - FW 9
+    Wayne Rooney - FW 10
+    Danny Welbeck - FW 11
+    Chris Smalling - DF 12
+    Ben Foster - GK 13
+    Jordan Henderson - MF 14
+    Alex Oxlade-Chamberlain - MF 15
+    Phil Jones - DF 16
+    James Milner - MF 17
+    Rickie Lambert - FW 18
+    Raheem Sterling - MF 19
+    Adam Lallana - MF 20
+    Ross Barkley - MF 21
+    Fraser Forster - GK 22
+    Luke Shaw - DF 23
+    
+    
+    
+    Country: France
+    Hugo Lloris - GK 1
+    Mathieu Debuchy - DF 2
+    Patrice Evra - DF 3
+    RaphaÃ«l Varane - DF 4
+    Mamadou Sakho - DF 5
+    Yohan Cabaye - MF 6
+    RÃ©my Cabella - FW 7
+    Mathieu Valbuena - MF 8
+    Olivier Giroud - FW 9
+    Karim Benzema - FW 10
+    Antoine Griezmann - MF 11
+    Rio Mavuba - MF 12
+    Eliaquim Mangala - DF 13
+    Blaise Matuidi - MF 14
+    Bacary Sagna - DF 15
+    StÃ©phane Ruffier - GK 16
+    Lucas Digne - DF 17
+    Moussa Sissoko - MF 18
+    Paul Pogba - MF 19
+    LoÃ¯c RÃ©my - FW 20
+    Laurent Koscielny - DF 21
+    Morgan Schneiderlin - MF 22
+    MickaÃ«l Landreau - GK 23
+    
+    
+    
+    Country: Germany
+    Manuel Neuer - GK 1
+    Kevin GroÃŸkreutz - DF 2
+    Matthias Ginter - MF 3
+    Benedikt HÃ¶wedes - DF 4
+    Mats Hummels - DF 5
+    Sami Khedira - MF 6
+    Bastian Schweinsteiger - MF 7
+    Mesut Ã–zil - MF 8
+    AndrÃ© SchÃ¼rrle - MF 9
+    Lukas Podolski - FW 10
+    Miroslav Klose - FW 11
+    Ron-Robert Zieler - GK 12
+    Thomas MÃ¼ller - MF 13
+    Julian Draxler - MF 14
+    Erik Durm - DF 15
+    Philipp Lahm - DF 16
+    Per Mertesacker - DF 17
+    Toni Kroos - MF 18
+    Mario GÃ¶tze - MF 19
+    JÃ©rÃ´me Boateng - DF 20
+    Marco Reus - MF 21
+    Roman Weidenfeller - GK 22
+    Christoph Kramer - MF 23
+    
+    
+    
+    Country: Ghana
+    Steven Adams - GK 1
+    Samuel Inkoom - DF 2
+    Asamoah Gyan - FW 3
+    Daniel Opare - DF 4
+    Michael Essien - MF 5
+    Afriyie Acquah - MF 6
+    Christian Atsu - MF 7
+    Emmanuel Agyemang-Badu - MF 8
+    Kevin-Prince Boateng - FW 9
+    AndrÃ© Ayew - MF 10
+    Sulley Muntari - MF 11
+    Adam Kwarasey - GK 12
+    Jordan Ayew - FW 13
+    Albert Adomah - MF 14
+    Rashid Sumaila - DF 15
+    Fatau Dauda - GK 16
+    Mohammed Rabiu - MF 17
+    Majeed Waris - FW 18
+    Jonathan Mensah - DF 19
+    Kwadwo Asamoah - MF 20
+    John Boye - DF 21
+    Wakaso Mubarak - MF 22
+    Harrison Afful - DF 23
+    
+    
+    
+    Country: Greece
+    Orestis Karnezis - GK 1
+    Giannis Maniatis - DF 2
+    Giorgos Tzavellas - DF 3
+    Kostas Manolas - DF 4
+    Vangelis Moras - DF 5
+    Alexandros Tziolis - MF 6
+    Giorgos Samaras - FW 7
+    Panagiotis Kone - MF 8
+    Kostas Mitroglou - FW 9
+    Giorgos Karagounis - MF 10
+    Loukas Vyntra - DF 11
+    Panagiotis Glykos - GK 12
+    Stefanos Kapino - GK 13
+    Dimitris Salpingidis - FW 14
+    Vasilis Torosidis - DF 15
+    Lazaros Christodoulopoulos - MF 16
+    Theofanis Gekas - FW 17
+    Giannis Fetfatzidis - MF 18
+    Sokratis Papastathopoulos - DF 19
+    JosÃ© Holebas - DF 20
+    Kostas Katsouranis - MF 21
+    Andreas Samaris - MF 22
+    Panagiotis Tachtsidis - MF 23
+    
+    
+    
+    Country: Honduras
+    Luis LÃ³pez - GK 1
+    Osman ChÃ¡vez - DF 2
+    Maynor Figueroa - DF 3
+    Juan Pablo Montes - DF 4
+    VÃ­ctor BernÃ¡rdez - DF 5
+    Juan Carlos GarcÃ­a - DF 6
+    Emilio Izaguirre - DF 7
+    Wilson Palacios - MF 8
+    Jerry Palacios - FW 9
+    Mario MartÃ­nez - MF 10
+    Jerry Bengtson - FW 11
+    Edder Delgado - MF 12
+    Carlo Costly - FW 13
+    Ã“scar GarcÃ­a - MF 14
+    Roger Espinoza - MF 15
+    Rony MartÃ­nez - FW 16
+    Marvin ChÃ¡vez - MF 17
+    Noel Valladares - GK 18
+    Luis Garrido - MF 19
+    Jorge Claros - MF 20
+    Andy Najar - MF 21
+    Donis Escober - GK 22
+    Brayan Beckeles - DF 23
+    
+    
+    
+    Country: Iran
+    Rahman Ahmadi - GK 1
+    Khosro Heydari - MF 2
+    Ehsan Hajsafi - MF 3
+    Jalal Hosseini - DF 4
+    Amir Hossein Sadeghi - DF 5
+    Javad Nekounam - MF 6
+    Masoud Shojaei - MF 7
+    Reza Haghighi - MF 8
+    Alireza Jahanbakhsh - FW 9
+    Karim Ansarifard - FW 10
+    Ghasem Haddadifar - MF 11
+    Alireza Haghighi - GK 12
+    Hossein Mahini - DF 13
+    Andranik Teymourian - MF 14
+    Pejman Montazeri - DF 15
+    Reza Ghoochannejhad - FW 16
+    Ahmad Alenemeh - DF 17
+    Bakhtiar Rahmani - MF 18
+    Hashem Beikzadeh - DF 19
+    Steven Beitashour - DF 20
+    Ashkan Dejagah - MF 21
+    Daniel Davari - GK 22
+    Mehrdad Pouladi - DF 23
+    
+    
+    
+    Country: Italy
+    Gianluigi Buffon - GK 1
+    Mattia De Sciglio - DF 2
+    Giorgio Chiellini - DF 3
+    Matteo Darmian - DF 4
+    Thiago Motta - MF 5
+    Antonio Candreva - MF 6
+    Ignazio Abate - DF 7
+    Claudio Marchisio - MF 8
+    Mario Balotelli - FW 9
+    Antonio Cassano - FW 10
+    Alessio Cerci - FW 11
+    Salvatore Sirigu - GK 12
+    Mattia Perin - GK 13
+    Alberto Aquilani - MF 14
+    Andrea Barzagli - DF 15
+    Daniele De Rossi - MF 16
+    Ciro Immobile - FW 17
+    Marco Parolo - MF 18
+    Leonardo Bonucci - DF 19
+    Gabriel Paletta - DF 20
+    Andrea Pirlo - MF 21
+    Lorenzo Insigne - FW 22
+    Marco Verratti - MF 23
+    
+    
+    
+    Country: Japan
+    Eiji Kawashima - GK 1
+    Atsuto Uchida - DF 2
+    Gatoku Sakai - DF 3
+    Keisuke Honda - MF 4
+    Yuto Nagatomo - DF 5
+    Masato Morishige - DF 6
+    Yasuhito End - MF 7
+    Hiroshi Kiyotake - MF 8
+    Shinji Okazaki - FW 9
+    Shinji Kagawa - MF 10
+    Yoichiro Kakitani - FW 11
+    Shusaku Nishikawa - GK 12
+    Yoshito kubo - FW 13
+    Toshihiro Aoyama - MF 14
+    Yasuyuki Konno - DF 15
+    Hotaru Yamaguchi - MF 16
+    Makoto Hasebe - MF 17
+    Yuya Osako - FW 18
+    Masahiko Inoha - DF 19
+    Manabu Sait - FW 20
+    Hiroki Sakai - DF 21
+    Maya Yoshida - DF 22
+    Shichi Gonda - GK 23
+    
+    
+    
+    Country: Mexico
+    José de Jesús Corona - GK 1
+    Francisco Javier Rodríguez - DF 2
+    Carlos Salcido - DF 3
+    Rafael Márquez - DF 4
+    Diego Reyes - DF 5
+    Héctor Herrera - MF 6
+    Miguel Layún - DF 7
+    Marco Fabián - MF 8
+    Raúl Jiménez - FW 9
+    Giovani dos Santos - FW 10
+    Alan Pulido - FW 11
+    Alfredo Talavera - GK 12
+    Guillermo Ochoa - GK 13
+    Javier Hernández - FW 14
+    Héctor Moreno - DF 15
+    Miguel Ángel Ponce - DF 16
+    Isaác Brizuela - MF 17
+    Andrés Guardado - DF 18
+    Oribe Peralta - FW 19
+    Javier Aquino - MF 20
+    Carlos Peña - MF 21
+    Paul Aguilar - DF 22
+    José Juan Vázquez - MF 23
+    
+    
+    
+    Country: Netherlands
+    Jasper Cillessen - GK 1
+    Ron Vlaar - DF 2
+    Stefan de Vrij - DF 3
+    Bruno Martins Indi - DF 4
+    Daley Blind - DF 5
+    Jonathan de GuzmÃ¡n - MF 6
+    Daryl Janmaat - DF 7
+    Nigel de Jong - MF 8
+    Robin van Persie - FW 9
+    Wesley Sneijder - MF 10
+    Arjen Robben - MF 11
+    Paul Verhaegh - DF 12
+    JoÃ«l Veltman - DF 13
+    Terence Kongolo - DF 14
+    Dirk Kuyt - FW 15
+    Jordy Clasie - MF 16
+    Jeremain Lens - FW 17
+    Leroy Fer - MF 18
+    Klaas-Jan Huntelaar - FW 19
+    Georginio Wijnaldum - MF 20
+    Memphis Depay - MF 21
+    Michel Vorm - GK 22
+    Tim Krul - GK 23
+    
+    
+    
+    Country: Nigeria    
+    Vincent Enyeama - GK 1
+    Joseph Yobo - DF 2
+    Uwa Elderson EchiÃ©jilÃ© - DF 3
+    Reuben Gabriel - MF 4
+    Efe Ambrose - DF 5
+    Azubuike Egwuekwe - DF 6
+    Ahmed Musa - FW 7
+    Peter Odemwingie - FW 8
+    Emmanuel Emenike - FW 9
+    John Obi Mikel - MF 10
+    Victor Moses - MF 11
+    Kunle Odunlami - DF 12
+    Juwon Oshaniwa - DF 13
+    Godfrey Oboabona - DF 14
+    Ramon Azeez - MF 15
+    Austin Ejide - GK 16
+    Ogenyi Onazi - MF 17
+    Michael Babatunde - MF 18
+    Uche Nwofor - FW 19
+    Michael Uchebo - FW 20
+    Chigozie Agbim - GK 21
+    Kenneth Omeruo - DF 22
+    Shola Ameobi - FW 23
+    
+    
+    
+    Country: Portugal
+    Eduardo - GK 1
+    Bruno Alves - DF 2
+    Pepe - DF 3
+    Miguel Veloso - MF 4
+    FÃ¡bio CoentrÃ£o - DF 5
+    William Carvalho - MF 6
+    Cristiano Ronaldo - FW 7
+    JoÃ£o Moutinho - MF 8
+    Hugo Almeida - FW 9
+    Vieirinha - MF 10
+    Ã‰der - FW 11
+    Rui PatrÃ­cio - GK 12
+    Ricardo Costa - DF 13
+    LuÃ­s Neto - DF 14
+    Rafa Silva - MF 15
+    Raul Meireles - MF 16
+    Nani - MF 17
+    Silvestre Varela - MF 18
+    AndrÃ© Almeida - DF 19
+    RÃºben Amorim - MF 20
+    JoÃ£o Pereira - DF 21
+    Beto - GK 22
+    HÃ©lder Postiga - FW 23
+    
+    
+    
+    Country: Russia
+    Igor Akinfeev - GK 1
+    Aleksei Kozlov - DF 2
+    Georgi Shchennikov - DF 3
+    Sergei Ignashevich - DF 4
+    Andrei Semyonov - DF 5
+    Maksim Kanunnikov - FW 6
+    Igor Denisov - MF 7
+    Denis Glushakov - MF 8
+    Aleksandr Kokorin - FW 9
+    Alan Dzagoev - MF 10
+    Aleksandr Kerzhakov - FW 11
+    Yuri Lodygin - GK 12
+    Vladimir Granat - DF 13
+    Vasili Berezutski - DF 14
+    Roman Shirokov - MF 15
+    Sergey Ryzhikov - GK 16
+    Oleg Shatov - MF 17
+    Yuri Zhirkov - FW 18
+    Aleksandr Samedov - FW 19
+    Viktor Fayzulin - MF 20
+    Aleksei Ionov - FW 21
+    Andrey Yeshchenko - DF 22
+    Dmitri Kombarov - DF 23
+    
+    
+    
+    Country: South Korea
+    Jung Sung-Ryong - GK 1
+    Kim Chang-Soo - DF 2
+    Yun Suk-Young - DF 3
+    Kwak Tae-Hwi - DF 4
+    Kim Young-Gwon - DF 5
+    Hwang Seok-Ho - DF 6
+    Kim Bo-Kyung - MF 7
+    Ha Dae-Sung - MF 8
+    Son Heung-Min - FW 9
+    Park Chu-Young - FW 10
+    Lee Keun-Ho - FW 11
+    Lee Yong - DF 12
+    Koo Ja-Cheol - MF 13
+    Han Kook-Young - MF 14
+    Park Jong-Woo - MF 15
+    Ki Sung-Yueng - MF 16
+    Lee Chung-Yong - MF 17
+    Kim Shin-Wook - FW 18
+    Ji Dong-Won - FW 19
+    Hong Jeong-Ho - DF 20
+    Kim Seung-Gyu - GK 21
+    Park Joo-Ho - DF 22
+    Lee Bum-Young - GK 23
+    
+    
+    
+    Country: Spain
+    Iker Casillas - GK 1
+    RaÃºl Albiol - DF 2
+    Gerard PiquÃ© - DF 3
+    Javi MartÃ­nez - MF 4
+    Juanfran - DF 5
+    AndrÃ©s Iniesta - MF 6
+    David Villa - FW 7
+    Xavi - MF 8
+    Fernando Torres - FW 9
+    Cesc FÃ bregas - MF 10
+    Pedro - FW 11
+    David de Gea - GK 12
+    Juan Mata - MF 13
+    Xabi Alonso - MF 14
+    Sergio Ramos - DF 15
+    Sergio Busquets - MF 16
+    Koke - MF 17
+    Jordi Alba - DF 18
+    Diego Costa - FW 19
+    Santi Cazorla - MF 20
+    David Silva - MF 21
+    CÃ©sar Azpilicueta - DF 22
+    Pepe Reina - GK 23
+    
+    
+    
+    Country: Switzerland
+    Diego Benaglio - GK 1
+    Stephan Lichtsteiner - DF 2
+    Reto Ziegler - DF 3
+    Philippe Senderos - DF 4
+    Steve von Bergen - DF 5
+    Michael Lang - DF 6
+    Tranquillo Barnetta - MF 7
+    GÃ¶khan Inler - MF 8
+    Haris SeferoviÄ‡ - FW 9
+    Granit Xhaka - MF 10
+    Valon Behrami - MF 11
+    Yann Sommer - GK 12
+    Ricardo RodrÃ­guez - DF 13
+    Valentin Stocker - MF 14
+    Blerim DÅ¾emaili - MF 15
+    Gelson Fernandes - MF 16
+    Mario GavranoviÄ‡ - FW 17
+    Admir Mehmedi - FW 18
+    Josip DrmiÄ‡ - FW 19
+    Johan Djourou - DF 20
+    Roman BÃ¼rki - GK 21
+    Fabian SchÃ¤r - DF 22
+    Xherdan Shaqiri - MF 23
+    
+    
+    
+    Country: United States
+    Tim Howard - GK 1
+    DeAndre Yedlin - DF 2
+    Omar Gonzalez - DF 3
+    Michael Bradley - MF 4
+    Matt Besler - DF 5
+    John Brooks - DF 6
+    DaMarcus Beasley - DF 7
+    Clint Dempsey - FW 8
+    Aron JÃ³hannsson - FW 9
+    Mikkel Diskerud - MF 10
+    Alejandro Bedoya - MF 11
+    Brad Guzan - GK 12
+    Jermaine Jones - MF 13
+    Brad Davis - MF 14
+    Kyle Beckerman - MF 15
+    Julian Green - MF 16
+    Jozy Altidore - FW 17
+    Chris Wondolowski - FW 18
+    Graham Zusi - MF 19
+    Geoff Cameron - DF 20
+    Timothy Chandler - DF 21
+    Nick Rimando - GK 22
+    Fabian Johnson - DF 23
+    
+    
+    
+    Country: Uruguay
+    Fernando Muslera - GK 1
+    Diego Lugano - DF 2
+    Diego Godín - DF 3
+    Sebastián Coates - DF 4
+    Walter Gargano - MF 5
+    Álvaro Pereira - MF 6
+    Cristian Rodríguez - MF 7
+    Abel Hernández - FW 8
+    Luis Suárez - FW 9
+    Diego Forlán - FW 10
+    Christian Stuani - FW 11
+    Rodrigo Muñoz - GK 12
+    Jorge Fucile - DF 13
+    Nicolás Lodeiro - MF 14
+    Diego Pérez - MF 15
+    Maxi Pereira - DF 16
+    Egidio Arévalo Ríos - MF 17
+    Gastón Ramírez - MF 18
+    José María Giménez - DF 19
+    Álvaro González - MF 20
+    Edinson Cavani - FW 21
+    Martín Cáceres - DF 22
+    Martín Silva - GK 23
+    
+    
+    
+    
+    
+    1.	Print all Teams to the screen
+    2.	Print all Teams to the User Specified file
+    3.	Sort the Teams by “Natural Order” (Hint: compareTo)
+    4.	Sort the by Team Country Name (Hint: Comparator)
+    5.	Sort each Team's Players by Number (Hint: Player compareTo)
+    6.	Sort each Team's Players by Position (Hint: Comparator)
+    7.	Print a entire team and only that team to a user specified file
+    8.	Quit
+    Choice --> 8
+    Bye
+    
+     ----jGRASP: operation complete.
+    
+     ----jGRASP exec: java CSCD211Lab1
+    
+    Please enter the name of the file that contains the team names files\\teams.txt
+    
+    
+    1.	Print all Teams to the screen
+    2.	Print all Teams to the User Specified file
+    3.	Sort the Teams by “Natural Order” (Hint: compareTo)
+    4.	Sort the by Team Country Name (Hint: Comparator)
+    5.	Sort each Team's Players by Number (Hint: Player compareTo)
+    6.	Sort each Team's Players by Position (Hint: Comparator)
+    7.	Print a entire team and only that team to a user specified file
+    8.	Quit
+    Choice --> 2
+    Please enter the name of the output file orig.txt
+    
+    
+    1.	Print all Teams to the screen
+    2.	Print all Teams to the User Specified file
+    3.	Sort the Teams by “Natural Order” (Hint: compareTo)
+    4.	Sort the by Team Country Name (Hint: Comparator)
+    5.	Sort each Team's Players by Number (Hint: Player compareTo)
+    6.	Sort each Team's Players by Position (Hint: Comparator)
+    7.	Print a entire team and only that team to a user specified file
+    8.	Quit
+    Choice --> 3
+    
+    
+    1.	Print all Teams to the screen
+    2.	Print all Teams to the User Specified file
+    3.	Sort the Teams by “Natural Order” (Hint: compareTo)
+    4.	Sort the by Team Country Name (Hint: Comparator)
+    5.	Sort each Team's Players by Number (Hint: Player compareTo)
+    6.	Sort each Team's Players by Position (Hint: Comparator)
+    7.	Print a entire team and only that team to a user specified file
+    8.	Quit
+    Choice --> 2
+    Please enter the name of the output file teamNO.txt
+    
+    
+    1.	Print all Teams to the screen
+    2.	Print all Teams to the User Specified file
+    3.	Sort the Teams by “Natural Order” (Hint: compareTo)
+    4.	Sort the by Team Country Name (Hint: Comparator)
+    5.	Sort each Team's Players by Number (Hint: Player compareTo)
+    6.	Sort each Team's Players by Position (Hint: Comparator)
+    7.	Print a entire team and only that team to a user specified file
+    8.	Quit
+    Choice --> 4
+    
+    
+    1.	Print all Teams to the screen
+    2.	Print all Teams to the User Specified file
+    3.	Sort the Teams by “Natural Order” (Hint: compareTo)
+    4.	Sort the by Team Country Name (Hint: Comparator)
+    5.	Sort each Team's Players by Number (Hint: Player compareTo)
+    6.	Sort each Team's Players by Position (Hint: Comparator)
+    7.	Print a entire team and only that team to a user specified file
+    8.	Quit
+    Choice --> 2
+    Please enter the name of the output file teamComp.txt
+    
+    
+    1.	Print all Teams to the screen
+    2.	Print all Teams to the User Specified file
+    3.	Sort the Teams by “Natural Order” (Hint: compareTo)
+    4.	Sort the by Team Country Name (Hint: Comparator)
+    5.	Sort each Team's Players by Number (Hint: Player compareTo)
+    6.	Sort each Team's Players by Position (Hint: Comparator)
+    7.	Print a entire team and only that team to a user specified file
+    8.	Quit
+    Choice --> 5
+    
+    
+    1.	Print all Teams to the screen
+    2.	Print all Teams to the User Specified file
+    3.	Sort the Teams by “Natural Order” (Hint: compareTo)
+    4.	Sort the by Team Country Name (Hint: Comparator)
+    5.	Sort each Team's Players by Number (Hint: Player compareTo)
+    6.	Sort each Team's Players by Position (Hint: Comparator)
+    7.	Print a entire team and only that team to a user specified file
+    8.	Quit
+    Choice --> 2
+    Please enter the name of the output file playerNum.txt
+    
+    
+    1.	Print all Teams to the screen
+    2.	Print all Teams to the User Specified file
+    3.	Sort the Teams by “Natural Order” (Hint: compareTo)
+    4.	Sort the by Team Country Name (Hint: Comparator)
+    5.	Sort each Team's Players by Number (Hint: Player compareTo)
+    6.	Sort each Team's Players by Position (Hint: Comparator)
+    7.	Print a entire team and only that team to a user specified file
+    8.	Quit
+    Choice --> 6
+    
+    
+    1.	Print all Teams to the screen
+    2.	Print all Teams to the User Specified file
+    3.	Sort the Teams by “Natural Order” (Hint: compareTo)
+    4.	Sort the by Team Country Name (Hint: Comparator)
+    5.	Sort each Team's Players by Number (Hint: Player compareTo)
+    6.	Sort each Team's Players by Position (Hint: Comparator)
+    7.	Print a entire team and only that team to a user specified file
+    8.	Quit
+    Choice --> 2
+    Please enter the name of the output file playerPosition.txt
+    
+    
+    1.	Print all Teams to the screen
+    2.	Print all Teams to the User Specified file
+    3.	Sort the Teams by “Natural Order” (Hint: compareTo)
+    4.	Sort the by Team Country Name (Hint: Comparator)
+    5.	Sort each Team's Players by Number (Hint: Player compareTo)
+    6.	Sort each Team's Players by Position (Hint: Comparator)
+    7.	Print a entire team and only that team to a user specified file
+    8.	Quit
+    Choice --> 7
+    Please enter the team 3 letter code usa
+    Please enter the name of the output file indiTeam.txt
+    
+    
+    1.	Print all Teams to the screen
+    2.	Print all Teams to the User Specified file
+    3.	Sort the Teams by “Natural Order” (Hint: compareTo)
+    4.	Sort the by Team Country Name (Hint: Comparator)
+    5.	Sort each Team's Players by Number (Hint: Player compareTo)
+    6.	Sort each Team's Players by Position (Hint: Comparator)
+    7.	Print a entire team and only that team to a user specified file
+    8.	Quit
+    Choice --> 8
+    Bye
+    
+     ----jGRASP: operation complete.
+    
