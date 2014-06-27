@@ -75,7 +75,7 @@
       <file leaf-file-name="Player.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/fuckme/Player.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="816">
+            <state line="45" column="54" selection-start="1069" selection-end="1069" vertical-scroll-proportion="0.0" vertical-offset="385" max-vertical-offset="884">
               <folding />
             </state>
           </provider>
@@ -84,7 +84,7 @@
       <file leaf-file-name="PlayerTest.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/fuckme/PlayerTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="38" column="5" selection-start="1314" selection-end="1314" vertical-scroll-proportion="1.6692506" vertical-offset="0" max-vertical-offset="782">
+            <state line="42" column="47" selection-start="1406" selection-end="1406" vertical-scroll-proportion="0.60465115" vertical-offset="480" max-vertical-offset="901">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -134,8 +134,8 @@
       <list>
         <option value="$PROJECT_DIR$/test/TestTeam.java" />
         <option value="$PROJECT_DIR$/src/fuckme/Team.java" />
-        <option value="$PROJECT_DIR$/test/fuckme/PlayerTest.java" />
         <option value="$PROJECT_DIR$/src/fuckme/Player.java" />
+        <option value="$PROJECT_DIR$/test/fuckme/PlayerTest.java" />
       </list>
     </option>
   </component>
@@ -602,14 +602,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/fuckme/Player.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+        <state line="45" column="54" selection-start="1069" selection-end="1069" vertical-scroll-proportion="0.0" vertical-offset="385" max-vertical-offset="884">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test/fuckme/PlayerTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="5" selection-start="1314" selection-end="1314" vertical-scroll-proportion="1.6692506" vertical-offset="0" max-vertical-offset="782">
+        <state line="42" column="47" selection-start="1406" selection-end="1406" vertical-scroll-proportion="0.60465115" vertical-offset="480" max-vertical-offset="901">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

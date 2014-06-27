@@ -42,6 +42,10 @@ public class Player {
         this.name = parts[2];
     }
 
+    public String toString(){
+        return name + " - " + position + " " + jersey;
+    }
+
 }
 /* (1)  GK  Thibaut Courtois                   ##  16, Atlético Madrid (ESP)
 */
